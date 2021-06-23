@@ -1,0 +1,1 @@
+  <footer><p>All right reserved. Template by: <a href="http://webthemez.com">Vishwanath</a></p></footer>
